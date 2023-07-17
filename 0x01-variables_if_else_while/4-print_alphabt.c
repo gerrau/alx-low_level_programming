@@ -5,15 +5,14 @@
 #include <time.h>
 
 /**
-  * main - Entry point
-  * Return: Always 0 (Sucess)
-  */
+ * main - Entry point
+ * Return: Always 0 (Sucess)
+ */
 
 int main(void)
 
 {
-	char low, e, q;
-	
+	char low, e, 
 	e = 'e';
 	q = 'q';
 
