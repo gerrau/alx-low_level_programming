@@ -3,6 +3,7 @@
 /*
  * main - Entry point
  *Description:'prints _putchar followed by a new line'
+ *main.h: a new header for this project
  * Return: Always 0
  */
 
